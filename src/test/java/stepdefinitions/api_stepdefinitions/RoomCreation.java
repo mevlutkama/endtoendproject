@@ -11,6 +11,4 @@ public class RoomCreation {
     public void user_gets_the_room_data_and_validates() {
 
     }
-
-
 }
