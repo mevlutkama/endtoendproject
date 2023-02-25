@@ -9,8 +9,8 @@ import org.junit.runner.RunWith;
 
         features = "./src/test/resources/features",
         glue = "stepdefinitions",
-        dryRun = false,
-        tags = "@E2ETest"
+        dryRun = true,
+        tags = "@TC03_Api"
 )
 
 public class Runner {
